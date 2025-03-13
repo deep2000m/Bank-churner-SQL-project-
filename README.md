@@ -1,6 +1,6 @@
 **Bank Churners SQL Project**
 
-**Overview****
+**Overview**
 
 This project analyzes customer churn in a banking dataset using SQL. The goal is to identify key factors influencing churn and provide insights for customer retention strategies.
 _____
