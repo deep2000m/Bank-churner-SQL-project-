@@ -38,4 +38,14 @@ ____
 SQL (MySQL Server)
 ____
 If you have suggestions or improvements, feel free to fork the repository and submit a pull request.
+____
+
+📬 Connect with me: 
+
+LinkedIn: [deeapkdas-analyst](https://www.linkedin.com/in/deepakdas-analyst)
+
+GitHub: [deepak2000m](https://github.com/deep2000m/Deep2000M)
+
+Email: deepakdas909@gmail.com
+
 ******
